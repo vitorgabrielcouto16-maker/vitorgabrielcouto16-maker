@@ -34,7 +34,7 @@ Conquistar minha primeira oportunidade como Desenvolvedor Java Júnior e continu
 ## 📫 Contato
 
 - LinkedIn: (cole aqui o link do seu LinkedIn)
-- GitHub: https://github.com/vitorgabrielcouto16-maker
+- vitorgabrielcouto16@gmail.com
 <!--
 **vitorgabrielcouto16-maker/vitorgabrielcouto16-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
