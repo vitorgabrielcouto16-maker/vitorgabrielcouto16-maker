@@ -1,5 +1,40 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Vitor Gabriel Couto Batista
 
+## 💻 Desenvolvedor Java em formação
+
+Atualmente estou estudando Java, Programação Orientada a Objetos (POO), Git e GitHub, desenvolvendo projetos práticos para fortalecer meus conhecimentos e construir uma base sólida para minha carreira como desenvolvedor.
+
+---
+
+## 🚀 Tecnologias que estou estudando
+
+- ☕ Java
+- 🔄 Git
+- 🐙 GitHub
+- 🧠 Lógica de Programação
+- 📦 Programação Orientada a Objetos (POO)
+
+---
+
+## 📂 Projetos em destaque
+
+- 📌 Comparação Numérica
+- 📌 Contador
+- 📌 Cadastro Java
+- 📌 Meu Primeiro Repositório
+
+---
+
+## 🎯 Objetivo
+
+Conquistar minha primeira oportunidade como Desenvolvedor Java Júnior e continuar evoluindo profissionalmente.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (cole aqui o link do seu LinkedIn)
+- GitHub: https://github.com/vitorgabrielcouto16-maker
 <!--
 **vitorgabrielcouto16-maker/vitorgabrielcouto16-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
