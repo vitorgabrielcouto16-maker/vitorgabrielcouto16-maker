@@ -1,51 +1,99 @@
 # 👋 Olá! Eu sou Vitor Gabriel Couto Batista
 
-## 💻 Desenvolvedor Java em formação
+## 💻 Desenvolvedor Java Back-end em formação
 
-Atualmente estou estudando Java, Programação Orientada a Objetos (POO), Git e GitHub, desenvolvendo projetos práticos para fortalecer meus conhecimentos e construir uma base sólida para minha carreira como desenvolvedor.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou me especializando em **desenvolvimento Back-end com Java**.
+
+Atualmente, venho desenvolvendo projetos práticos para aprimorar meus conhecimentos em programação, banco de dados e desenvolvimento de sistemas, buscando evoluir constantemente e construir uma base sólida para minha carreira como desenvolvedor.
+
+🎓 **Análise e Desenvolvimento de Sistemas**
+☕ **Formação Full Stack Java — EBAC**
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+## 🚀 Tecnologias e conhecimentos
 
-- ☕ Java
-- 🔄 Git
-- 🐙 GitHub
-- 🧠 Lógica de Programação
-- 📦 Programação Orientada a Objetos (POO)
+### ☕ Java
+
+* Programação Orientada a Objetos (POO)
+* Herança, Polimorfismo e Abstração
+* Interfaces
+* Collections — List, Set e Map
+* Tratamento de exceções
+* Generics
+* Lambda e Stream
+* Recursividade
+* Design Patterns — Factory, Builder e Strategy
+
+### 🗄️ Banco de Dados
+
+* MySQL
+* SQL
+* Relacionamentos e Foreign Keys
+* CRUD
+* JDBC
+* PreparedStatement
+
+### 🛠️ Ferramentas
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* Maven
+
+### 📚 Em evolução
+
+* APIs REST
+* Spring Boot
+* Desenvolvimento Back-end
+* Integração entre aplicações e banco de dados
 
 ---
 
 ## 📂 Projetos em destaque
 
-- 📌 Comparação Numérica
-- 📌 Contador
-- 📌 Cadastro Java
-- 📌 Meu Primeiro Repositório
+🔹 **Biblioteca Digital Java**
+Sistema desenvolvido em Java para gerenciamento de livros e usuários, utilizando conceitos de POO, Collections, ordenação, persistência de dados e tratamento de exceções.
+
+🔹 **Portal RH**
+Sistema para gerenciamento de funcionários e registro de horários, aplicando herança, abstração, polimorfismo, Collections e regras de negócio.
+
+🔹 **CRUD Java + MySQL**
+Aplicação Java integrada ao MySQL realizando operações de cadastro, consulta, atualização e exclusão utilizando JDBC e `PreparedStatement`.
+
+🔹 **Design Patterns em Java**
+Implementações práticas dos padrões **Builder, Factory e Strategy**, buscando compreender como esses padrões podem ser aplicados na construção de sistemas mais organizados e flexíveis.
 
 ---
 
 ## 🎯 Objetivo
 
-Conquistar minha primeira oportunidade como Desenvolvedor Java Júnior e continuar evoluindo profissionalmente.
+Conquistar minha primeira oportunidade profissional como **Desenvolvedor Java Back-end Júnior**, colocando em prática meus conhecimentos, aprendendo com profissionais experientes e evoluindo continuamente como desenvolvedor.
+
+Meu objetivo é construir sistemas bem estruturados, escrever código limpo e continuar aprofundando meus conhecimentos no ecossistema Java.
+
+---
+
+## 📈 Atualmente estudando
+
+* Java Back-end
+* Spring Boot
+* APIs REST
+* MySQL e SQL
+* Maven
+* Boas práticas de programação
+* Arquitetura e organização de projetos
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: (cole aqui o link do seu LinkedIn)
-- vitorgabrielcouto16@gmail.com
-<!--
-**vitorgabrielcouto16-maker/vitorgabrielcouto16-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 **E-mail:** [vitorgabrielcouto16@gmail.com](mailto:vitorgabrielcouto16@gmail.com)
 
-Here are some ideas to get you started:
+💼 **LinkedIn:** https://www.linkedin.com/in/vitorgabrielcouto/?isSelfProfile=true
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐙 **GitHub:** [github.com/vitorgabrielcouto16-maker](https://github.com/vitorgabrielcouto16-maker)
+
+---
+
+⭐ Estou sempre buscando aprender, praticar e transformar conhecimento em projetos reais.
