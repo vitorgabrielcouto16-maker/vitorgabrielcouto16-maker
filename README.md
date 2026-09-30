@@ -1,99 +1,45 @@
-# 👋 Olá! Eu sou Vitor Gabriel Couto Batista
+# Vitor Gabriel Couto Batista
 
-## 💻 Desenvolvedor Java Back-end em formação
+Desenvolvedor Java Back-end em formação, em busca da primeira oportunidade como estagiário ou júnior.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou me especializando em **desenvolvimento Back-end com Java**.
+Estudo Análise e Desenvolvimento de Sistemas na Estácio e faço a formação Full Stack Java na EBAC. Antes de programar, trabalhei como vendedor, e isso aparece nos meus projetos: gosto de construir coisas que resolvem o problema de alguém de verdade.
 
-Atualmente, venho desenvolvendo projetos práticos para aprimorar meus conhecimentos em programação, banco de dados e desenvolvimento de sistemas, buscando evoluir constantemente e construir uma base sólida para minha carreira como desenvolvedor.
+## Projeto em destaque
 
-🎓 **Análise e Desenvolvimento de Sistemas**
-☕ **Formação Full Stack Java — EBAC**
+### [Sistema de Confeitaria](https://github.com/vitorgabrielcouto16-maker/sistema-confeitaria)
 
----
+App desktop que fiz para a minha sogra, que é confeiteira, substituir o caderno de vendas e caixa. Roda offline e guarda tudo no próprio computador.
 
-## 🚀 Tecnologias e conhecimentos
+- Cadastro de produtos e clientes
+- Vendas com vários itens e forma de pagamento, salvas em transação (venda e itens gravados juntos, ou nada)
+- Caixa com entradas e saídas, já integrado às vendas
+- Dashboard com faturamento, doces mais vendidos e vendas dos últimos 7 dias
+- Empacotado como executável (.exe) para rodar sem precisar instalar Java
 
-### ☕ Java
+**Stack:** Java 21, JavaFX, SQLite, JDBC, Maven
 
-* Programação Orientada a Objetos (POO)
-* Herança, Polimorfismo e Abstração
-* Interfaces
-* Collections — List, Set e Map
-* Tratamento de exceções
-* Generics
-* Lambda e Stream
-* Recursividade
-* Design Patterns — Factory, Builder e Strategy
+## Outros projetos
 
-### 🗄️ Banco de Dados
+- **Biblioteca Digital:** gerenciamento de livros e usuários com POO, Collections, ordenação, persistência em arquivo e exceções personalizadas.
+- **Portal RH:** cadastro de funcionários e registro de horários, aplicando herança, abstração, polimorfismo e regras de negócio.
+- **CRUD Java + MySQL:** operações completas de cadastro, consulta, atualização e exclusão com JDBC e `PreparedStatement`.
+- **Design Patterns:** implementações dos padrões Builder, Factory e Strategy.
+- [**Loja Java**](https://github.com/vitorgabrielcouto16-maker/loja-java): simulação do funcionamento de uma loja, praticando POO.
 
-* MySQL
-* SQL
-* Relacionamentos e Foreign Keys
-* CRUD
-* JDBC
-* PreparedStatement
+## O que eu uso
 
-### 🛠️ Ferramentas
+| Área | Tecnologias |
+|---|---|
+| Linguagem | Java (POO, Collections, Generics, Streams e Lambdas, exceções) |
+| Banco de dados | SQL, MySQL, SQLite, JDBC |
+| Interface | JavaFX |
+| Ferramentas | Git, GitHub, Maven, IntelliJ IDEA |
 
-* Git
-* GitHub
-* IntelliJ IDEA
-* Maven
+## Estudando agora
 
-### 📚 Em evolução
+Spring Boot e APIs REST, para levar o que já sei de Java e banco de dados para o desenvolvimento web.
 
-* APIs REST
-* Spring Boot
-* Desenvolvimento Back-end
-* Integração entre aplicações e banco de dados
+## Contato
 
----
-
-## 📂 Projetos em destaque
-
-🔹 **Biblioteca Digital Java**
-Sistema desenvolvido em Java para gerenciamento de livros e usuários, utilizando conceitos de POO, Collections, ordenação, persistência de dados e tratamento de exceções.
-
-🔹 **Portal RH**
-Sistema para gerenciamento de funcionários e registro de horários, aplicando herança, abstração, polimorfismo, Collections e regras de negócio.
-
-🔹 **CRUD Java + MySQL**
-Aplicação Java integrada ao MySQL realizando operações de cadastro, consulta, atualização e exclusão utilizando JDBC e `PreparedStatement`.
-
-🔹 **Design Patterns em Java**
-Implementações práticas dos padrões **Builder, Factory e Strategy**, buscando compreender como esses padrões podem ser aplicados na construção de sistemas mais organizados e flexíveis.
-
----
-
-## 🎯 Objetivo
-
-Conquistar minha primeira oportunidade profissional como **Desenvolvedor Java Back-end Júnior**, colocando em prática meus conhecimentos, aprendendo com profissionais experientes e evoluindo continuamente como desenvolvedor.
-
-Meu objetivo é construir sistemas bem estruturados, escrever código limpo e continuar aprofundando meus conhecimentos no ecossistema Java.
-
----
-
-## 📈 Atualmente estudando
-
-* Java Back-end
-* Spring Boot
-* APIs REST
-* MySQL e SQL
-* Maven
-* Boas práticas de programação
-* Arquitetura e organização de projetos
-
----
-
-## 📫 Contato
-
-📧 **E-mail:** [vitorgabrielcouto16@gmail.com](mailto:vitorgabrielcouto16@gmail.com)
-
-💼 **LinkedIn:** https://www.linkedin.com/in/vitorgabrielcouto/?isSelfProfile=true
-
-🐙 **GitHub:** [github.com/vitorgabrielcouto16-maker](https://github.com/vitorgabrielcouto16-maker)
-
----
-
-⭐ Estou sempre buscando aprender, praticar e transformar conhecimento em projetos reais.
+- E-mail: vitorgabrielcouto16@gmail.com
+- LinkedIn: [linkedin.com/in/vitorgabrielcouto](https://www.linkedin.com/in/vitorgabrielcouto)
